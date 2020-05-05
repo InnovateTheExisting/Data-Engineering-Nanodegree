@@ -102,11 +102,11 @@ git clone https://github.com/vineeths96/Data-Engineering-Nanodegree
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+These are the prerequisites to run the program.
 
 * python 3.7
 * PostgreSQL
-* psycopg2
+* psycopg2 python library
 
 ### How to run
 

@@ -5,7 +5,7 @@
 
 <p align="center">
  <a href="https://github.com/vineeths96/Data-Engineering-Nanodegree">
-  <img src="images/postgresSQLlogo.png" alt="Logo" width="200" height="200">
+  <img src="./images/postgresSQLlogo.png" alt="Logo" width="200" height="200">
  </a>
  <h3 align="center">Data Modeling ETL with PostgreSQL</h3>
  <p align="center">
@@ -15,6 +15,7 @@
   <br />
   <br />
  </p>
+
 
 
 </p>
@@ -70,7 +71,7 @@ The Star Database Schema used for data modeling in this ETL pipeline. There is o
 
 An entity relationship diagram (ERD) of the data model is given below. 
 
-![database](/home/vineeth/Work/Extras/Udacity Data Engineering/Project 1 Data Modeling with PostgreSQL/images/database.png)
+![database](./images/database.png)
 
 ## Project structure
 
